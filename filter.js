@@ -1,4 +1,3 @@
-//import the players array from the data file
-import { players, regularSeasonStats } from "./data";
+//import the regularSeasonStats array from the data file
 
-//return the array filtering out entries that have less than 340 assist
+//filter the array to only have entries with more than 340 assist
