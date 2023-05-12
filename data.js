@@ -84,7 +84,7 @@ export const regularSeasonStats = [
         year: 2022
     },
     {
-        statId: 0006,
+        statId: 7006,
         points: 1946,
         assists: 350,
         rebounds: 458,
@@ -96,7 +96,7 @@ export const regularSeasonStats = [
         year: 2022
     },
     {
-        statId: 0876,
+        statId: 7876,
         points: 1922,
         assists: 301,
         rebounds: 289,
@@ -108,7 +108,7 @@ export const regularSeasonStats = [
         year: 2022
     },
     {
-        statId: 0011,
+        statId: 7011,
         points: 2107,
         assists: 425,
         rebounds: 277,
@@ -120,7 +120,7 @@ export const regularSeasonStats = [
         year: 2022
     },
     {
-        statId: 0900,
+        statId: 8900,
         points: 1914,
         assists: 741,
         rebounds: 217,
@@ -139,7 +139,7 @@ export const players = [
         playerId: 2123,
         name: 'Trae Young',
         team: 'Hawks',
-        statId: 0900,
+        statId: 8900,
         exp: 4
     },
     {
@@ -153,7 +153,7 @@ export const players = [
         playerId: 9876,
         name: 'Damian Lillard',
         team: 'Trailblazers',
-        statId: 0011,
+        statId: 7011,
         exp: 10
     },
     {
@@ -195,7 +195,7 @@ export const players = [
         playerId: 1003,
         name: 'Anthony Edwards',
         team: 'Timberwolves',
-        statId: 0006,
+        statId: 7006,
         exp: 2
     },
     {
@@ -209,7 +209,7 @@ export const players = [
         playerId: 1987,
         name: 'Donovan Mitchell',
         team: 'Cavaliers',
-        statId: 0876,
+        statId: 7876,
         exp: 5
     }
 ]
